@@ -1,0 +1,16 @@
+{
+  "name": "jsdompoc",
+  "version": "0.0.1",
+  "description": "Test project to see what you can do with the JSDom library",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jsdom": "^12.2.2",
+    "jsdom": "^13.2.0"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Craig Gleadall",
+  "license": "ISC"
+}
